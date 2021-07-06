@@ -1,3 +1,3 @@
 # ProjetoED
-Projeto de Estrutura de Dados
+Projeto de Estrutura de Dados.
 Executar pelo NetBeams.
